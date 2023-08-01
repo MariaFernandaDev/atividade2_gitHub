@@ -1,0 +1,19 @@
+Pesquisa sobre "readme.md" 
+
+- LEIAME.md
+- ".md" markdown 
+- é um arquivo que contém as infermações necessárias para entender o objetivo do projeto.
+- ".md" é uma ferramenta de conversão de texto em HTML 
+- cartão de visita para o código 
+- facilita a compreensão 
+- Um Readme.MD é um texto simples e sem formatação que contém informações básicas sobre arquivos e guias. Usamos para escrever um guia de instalação. Também é útil na criação de documentação básica dentro do diretório do projeto. Portanto, ao explorar o formato de arquivo MD, é necessário entender como um arquivo de remarcação é criado, através de um script de remarcação fornecido como um arquivo Readme.MD escrito.
+
+Um arquivo Readme MD é muito importante e, portanto, deve ser incluído no seu projeto ou programa, pois fornece os seguintes detalhes:
+
+- Informa os leitores sobre o que é o projeto
+- Informa sobre como usar o projeto
+- Diz a importância do projeto
+- Informa sobre para quem o programa foi criado
+- Mostra onde estão os principais componentes
+- Informa como o projeto / programa é benéfico para os outros
+- o arquivo Readme MD deve estar no repositório raiz.
